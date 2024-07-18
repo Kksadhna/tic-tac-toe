@@ -29,7 +29,7 @@ const count= ()=>{
     }
 }
 
-}
+
 
 boxes.forEach((box)=>{
     box.addEventListener("click", ()=>{
